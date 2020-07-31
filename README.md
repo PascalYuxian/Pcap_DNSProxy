@@ -17,8 +17,9 @@ the Binary Release : https://github.com/Lyoko-Jeremie/Pcap_DNSProxy_release
 * [繁體中文介紹](README.zh-Hant.md)
 
 ### DNSCurve
-DNS Stamps : https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v2/public-resolvers.md
-DNS Stamps online calculator : https://dnscrypt.info/stamps/
+
+DNS Stamps : https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v2/public-resolvers.md  
+DNS Stamps online calculator : https://dnscrypt.info/stamps/  
 
 ### Summary
 Pcap_DNSProxy is a tool based on WinPcap/LibPcap which can filter DNS poisoning. It provides a convenient and powerful way to change Hosts via regular expressions, DNSCurve/DNSCrypt protocol support, as well as parallel request and TCP request support. Multiple servers parallel request can improve the reliability of domain name resolution in a bad network:

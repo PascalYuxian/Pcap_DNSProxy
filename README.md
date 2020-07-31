@@ -8,13 +8,17 @@ the Wiki : https://github.com/Lyoko-Jeremie/Pcap_DNSProxy_wiki
 the Binary Release : https://github.com/Lyoko-Jeremie/Pcap_DNSProxy_release  
 
 ### Releases
-[![GitHub release](https://img.shields.io/github/release/chengr28/Pcap_DNSProxy.svg)](https://github.com/chengr28/Pcap_DNSProxy/releases/latest)
-[![GitHub (pre-)release](https://img.shields.io/github/release/chengr28/Pcap_DNSProxy/all.svg?label=pre-release)](https://github.com/chengr28/Pcap_DNSProxy/releases)
+[![GitHub release](https://img.shields.io/github/release/Lyoko-Jeremie/Pcap_DNSProxy.svg)](https://github.com/Lyoko-Jeremie/Pcap_DNSProxy/releases/latest)
+[![GitHub (pre-)release](https://img.shields.io/github/release/Lyoko-Jeremie/Pcap_DNSProxy/all.svg?label=pre-release)](https://github.com/Lyoko-Jeremie/Pcap_DNSProxy/releases)
 
 ### Usage
-**Please visit [Documents folder](https://github.com/chengr28/Pcap_DNSProxy/tree/master/Documents) to read detail introduction.**
+**Please visit [Documents folder](https://github.com/Lyoko-Jeremie/Pcap_DNSProxy/tree/master/Documents) to read detail introduction.**
 * [简体中文介绍](README.zh-Hans.md)
 * [繁體中文介紹](README.zh-Hant.md)
+
+### DNSCurve
+DNS Stamps : https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v2/public-resolvers.md
+DNS Stamps online calculator : https://dnscrypt.info/stamps/
 
 ### Summary
 Pcap_DNSProxy is a tool based on WinPcap/LibPcap which can filter DNS poisoning. It provides a convenient and powerful way to change Hosts via regular expressions, DNSCurve/DNSCrypt protocol support, as well as parallel request and TCP request support. Multiple servers parallel request can improve the reliability of domain name resolution in a bad network:
@@ -32,7 +36,7 @@ Pcap_DNSProxy is a tool based on WinPcap/LibPcap which can filter DNS poisoning.
   * **64-bit/x64: Windows Vista/2008 and later.**
   * **32-bit/x86: Windows XP SP3/2003 SP2 and later.**
 * FreeBSD/Linux
-  * FreeBSD/Linux which support all [dependency packages](https://github.com/chengr28/Pcap_DNSProxy/tree/master/Documents).
+  * FreeBSD/Linux which support all [dependency packages](https://github.com/Lyoko-Jeremie/Pcap_DNSProxy/tree/master/Documents).
 * macOS
   * **64-bit Mac OS X 10.8(Mountain Lion) and later.**
 * OpenWrt/LEDE
